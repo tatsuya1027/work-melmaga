@@ -1,0 +1,34 @@
+
+					<!-- Main -->
+					<% for (var i = 0; i < row.length; i++) { %>
+					<tr bgcolor="#ffffff">
+						<td>
+							<% if(row[i].table){ %>
+							<table style="display: block !important;" border="0" cellpadding="0" cellspacing="0" width="<%= size %>">
+								<tr bgcolor="#ffffff">
+								<% for (var j = 0; j < row[i].table.length; j++) { %>
+									<td>
+										<% if(row[i].table[j].href){ %>
+										<a href="<%- row[i].table[j].href %>" target="_blank" style="font-size:10pt; line-height:1.4 !important;">
+										<% } %>
+											<img src="<%= dir %>out_images/<%= row[i].table[j].name %>" width="<%= row[i].table[j].width %>" height="<%= row[i].table[j].height %>" border="0" alt="<%= row[i].table[j].alt %>">
+										<% if(row[i].table[j].href){ %>
+										</a>
+										<% } %>
+									</td>
+								<% } %>
+								</tr>
+							</table>
+							<% } else { %>
+							<% if(row[i].href){ %>
+							<a href="<%- row[i].href %>" target="_blank" style="font-size:10pt; line-height:1.4 !important;">
+							<% } %>
+								<img src="<%= dir %>out_images/<%= row[i].name %>" width="<%= row[i].width %>" height="<%= row[i].height %>" border="0" alt="<%= row[i].alt %>">
+							<% if(row[i].href){ %>
+							</a>
+							<% } %>
+						<% } %>
+						</td>
+					</tr>
+					<% } %>
+					<!-- /Main -->

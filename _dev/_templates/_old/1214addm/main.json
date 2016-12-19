@@ -1,0 +1,325 @@
+{
+	"title": "感謝をこめて。クリスマスまでもうすぐです。",
+	"dir": "http://magazine.nestle.co.jp/shop/161214addm/",
+	"size": "640",
+	"bgColor": "#09843e",
+	"textLinkColor": "#ffffff",
+	"footer": "ec",
+	"row": [
+		{
+			"name": "Headline.jpg",
+			"width": 640,
+			"height": 268,
+			"alt": "もうすぐクリスマス★プレゼントは決まりましたか？豪華商品が当たるキャンペーンも、いよいよラストチャンスです！"
+		},
+		{
+			"name": "Push_01.jpg",
+			"width": 640,
+			"height": 166,
+			"alt": "今月のイチオシ 年末大感謝キャンペーン 第3弾 今年最後のBIGチャンスです！"
+		},
+		{
+			"name": "Push_02.jpg",
+			"width": 640,
+			"height": 259,
+			"alt": "感謝の気持ちをこめたキャンペーン、いよいよラストチャンスです！第3弾は「ファッションコーディネートまたは福袋」および「体験ギフト」を計200名さまにプレゼント。いつもと違う体験で、新年を始めませんか？「ネスレ通販限定」「期間限定」"
+		},
+		{
+			"name": "Push_03.jpg",
+			"width": 640,
+			"height": 400,
+			"alt": "7週連続！年末大感謝祭キャンペーン！第3弾！12/14（水）～12/27（火）まで 総額2,000万円分のプレゼント 有名ファッション誌監修 8万円分のファッション福袋など当たります！ 詳しくはこちら",
+			"href": "https://shop.nestle.jp/front/contents/specialpromotion2016w/?utm_source=20161214_01&utm_medium=email&utm_campaign=shpstd_PC_001"
+		},
+		{
+			"name": "Campaign_01.jpg",
+			"width": 640,
+			"height": 197,
+			"alt": "「ネスカフェ ゴールドブレンド バリスタ」キャンペーン クリスマスプレゼントに「バリスタ アイ」はいかがですか？"
+		},
+		{
+			"name": "Campaign_02.jpg",
+			"width": 640,
+			"height": 249,
+			"alt": "いま「『バリスタ アイ』が無料で使用できるコーヒーカートリッジお届け便」にお申し込みいただくと、もう1台が通常価格の半額に！1台目は自分で、2台目を家族や友人にプレゼントなんていかがでしょう？「ネスレ通販限定」"
+		},
+		{
+			"name": "Campaign_03.jpg",
+			"width": 640,
+			"height": 200,
+			"alt": "「マシンが無料で使用できるコーヒーカートリッジお届け便」ご利用中の方限定！「バリスタ アイ」を通常価格の半額で 詳しくはこちら",
+			"href": "https://shop.nestle.jp/front/contents/NBAMchrental/?utm_source=20161214_01&utm_medium=email&utm_campaign=shpstd_PC_002"
+		},
+		{
+			"name": "Spt_01.jpg",
+			"width": 640,
+			"height": 135,
+			"alt": "「ネスレ スペシャル.T」新商品 期間限定で「アップルシナモン」が仲間入り！"
+		},
+		{
+			"name": "Spt_02.jpg",
+			"width": 640,
+			"height": 261,
+			"alt": "リンゴとスパイシーなシナモンの香りが、まるでアップルパイを思わせるフレーバー ルイボスティーです。ノンカフェインなので、就寝前のひとときにもオススメです♪「期間限定」"
+		},
+		{
+			"name": "Spt_03.jpg",
+			"width": 640,
+			"height": 400,
+			"alt": "期間限定 アップルパイのような甘い香りでほっこり アップルシナモン 詳しくはこちら",
+			"href": "https://shop.nestle.jp/front/commodity/00000000/001229450402/?utm_source=20161214_01&utm_medium=email&utm_campaign=shpstd_PC_003"
+		},
+		{
+			"name": "Kitkat_01.jpg",
+			"width": 640,
+			"height": 181,
+			"alt": "「キットカット」おすすめ商品 クリスマスギフトにもぴったり！みんなで楽しめる「キットカット ショコラトリー」"
+		},
+		{
+			"name": "Kitkat_02.jpg",
+			"width": 640,
+			"height": 282,
+			"alt": "イベントが多くなるこの時期、ちょっとした手土産やクリスマスギフトに特別な「キットカット」はいかがですか？こだわりの素材で作られた 見た目にも美味しい商品の数々を、ぜひ一度チェックしてみてください！"
+		},
+		{
+			"name": "Kitkat_03.jpg",
+			"width": 640,
+			"height": 400,
+			"alt": "大切な人に気持ちを贈る「キットカット ショコラトリー」 詳しくはこちら",
+			"href": "https://chocolatory.nestle.jp/assort-gift-box.html/?utm_source=20161214_01&utm_medium=email&utm_campaign=shpstd_PC_004"
+		},
+		{
+			"name": "Ndg_01.jpg",
+			"width": 640,
+			"height": 186,
+			"alt": "「ネスカフェ ドルチェ グスト」キャンペーン＆販売再開 この冬は色々なコーヒーを楽しんでみませんか？「エスプレッソ」カプセルも販売再開！"
+		},
+		{
+			"name": "Ndg_02.jpg",
+			"width": 640,
+			"height": 327,
+			"alt": "いま「マシンが無料のカプセル定期便」にお申し込みいただくと、「宇治抹茶」をお試しプレゼント中です♪また、「エスプレッソ」が販売再開です！定期便ユーザーの方はマイページから追加購入可能です。好評発売中の宇治抹茶と合わせて、いろいろな「ドルチェ グスト」の味わいをお楽しみください！「期間限定」"
+		},
+		{
+			"name": "Ndg_03.jpg",
+			"width": 640,
+			"height": 200,
+			"alt": "マシン代金無料 今なら「宇治抹茶」1箱お試しプレゼント 詳しくはこちら",
+			"href": "https://shop.nestle.jp/front/category/DolceGusto/?utm_source=20161214_01&utm_medium=email&utm_campaign=shpstd_PC_005#purchase"
+		},
+		{
+			"name": "spacer.gif",
+			"width": 640,
+			"height": 20,
+			"alt": ""
+		},
+		{
+			"name": "Ndg_04.jpg",
+			"width": 640,
+			"height": 200,
+			"alt": "お待たせしました！再発売エスプレッソ 好評発売中！宇治抹茶 詳しくはこちら",
+			"href": "https://shop.nestle.jp/front/category/Each/?utm_source=20161214_01&utm_medium=email&utm_campaign=shpstd_PC_006"
+		},
+		{
+			"name": "Barista_01.jpg",
+			"width": 640,
+			"height": 283,
+			"alt": "皆さまからのご質問にお答えします バリスタくん’s ROOM"
+		},
+		{
+			"name": "Barista_02.jpg",
+			"width": 640,
+			"height": 218,
+			"alt": "Q クリスマスパーティーにおすすめのアレンジレシピを教えて！ A 「ネスカフェ ボトルコーヒー」を使ったアレンジメニューはいかがでしょうか？ほんのひと手間で、テーブルが華やかに！冬はお部屋の中が意外とあたたかいこともあるので、実は冬にもボトルコーヒーが大活躍なんです♪"
+		},
+		{
+			"name": "Barista_03.jpg",
+			"width": 640,
+			"height": 200,
+			"alt": "「ネスカフェ ボトルコーヒー」でカンタン＆華やかパーティーアレンジ！ 詳しくはこちら",
+			"href": "https://shop.nestle.jp/front/category/BottleProducts/?utm_source=20161214_01&utm_medium=email&utm_campaign=shpstd_PC_007"
+		},
+		{
+			"name": "Barista_04.jpg",
+			"width": 640,
+			"height": 40,
+			"alt": ""
+		},
+		{
+			"table": [
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				},
+				{
+					"name": "Other_01.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ネスカフェ ゴールドブレンド バリスタ",
+					"href": "https://shop.nestle.jp/front/category/NescafeBarista/"
+				},
+				{
+					"name": "Other_02.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ネスカフェ ドルチェ グスト",
+					"href": "https://shop.nestle.jp/front/category/DolceGusto/"
+				},
+				{
+					"name": "Other_03.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ネスレ スペシャル.T",
+					"href": "https://shop.nestle.jp/front/category/SpecialT/"
+				},
+				{
+					"name": "Other_04.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "キットカット クランチ エアロ",
+					"href": "https://shop.nestle.jp/front/category/KitkatCrunchAero/"
+				},
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				},
+				{
+					"name": "Other_05.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "コーヒー・コーヒークリーミング",
+					"href": "https://shop.nestle.jp/front/category/CoffeeCocoaCream/"
+				},
+				{
+					"name": "Other_06.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ボトルコーヒー",
+					"href": "https://shop.nestle.jp/front/category/BottleProducts/"
+				},
+				{
+					"name": "Other_07.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ポーション（コーヒー・ティー）",
+					"href": "https://shop.nestle.jp/front/contents/portion/"
+				},
+				{
+					"name": "Other_08.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ギフトセット",
+					"href": "https://shop.nestle.jp/front/category/Gift/"
+				},
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				},
+				{
+					"name": "Other_09.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "世界のお菓子",
+					"href": "https://shop.nestle.jp/front/category/Import/"
+				},
+				{
+					"name": "Other_10.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "キットカット ショコラトリー",
+					"href": "https://chocolatory.nestle.jp/"
+				},
+				{
+					"name": "Other_11.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "チョコラボ キットカット",
+					"href": "https://www.chocollabo.com/"
+				},
+				{
+					"name": "Other_12.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "マギー 無添加製品",
+					"href": "https://shop.nestle.jp/front/category/SeasoningProduct/"
+				},
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				},
+				{
+					"name": "Other_13.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "プロ向け食品",
+					"href": "https://shop.nestle.jp/front/category/Professional/"
+				},
+				{
+					"name": "Other_14.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "栄養補助食品",
+					"href": "https://shop.nestle.jp/front/category/NutritionS/"
+				},
+				{
+					"name": "Other_15.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ピュリナ ドッグフード",
+					"href": "https://shop.nestle.jp/front/category/Dog/"
+				},
+				{
+					"name": "Other_16.jpg",
+					"width": 150,
+					"height": 88,
+					"alt": "ピュリナ キャットフード",
+					"href": "https://shop.nestle.jp/front/category/CatFood/"
+				},
+				{
+					"name": "spacer.gif",
+					"width": 20,
+					"height": 88,
+					"alt": ""
+				}
+			]
+		}
+	]
+}

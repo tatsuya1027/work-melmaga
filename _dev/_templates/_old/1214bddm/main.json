@@ -1,0 +1,68 @@
+{
+	"theme": "",
+	"bgColor": "#ffffff",
+	"textLinkColor": "#000000",
+	"title": "あなただけの特別キャンペーン！親子で「バリスタ アイ」を使ってみませんか？",
+	"dir": "http://magazine.nestle.co.jp/shop/161214bddm/",
+	"size": "640",
+	"row": [
+		{
+			"name": "Headline_01.jpg",
+			"width": 640,
+			"height": 122,
+			"alt": "「マシンが無料で使用できるコーヒーカートリッジお届け便」を申し込まれた方限定！"
+		},
+		{
+			"name": "Headline_02.jpg",
+			"width": 640,
+			"height": 190,
+			"alt": "「バリスタ アイ」を通常価格の半額でご購入いただけます！この機会に親子で／友人と／恋人と「バリスタ アイ」でつながりませんか？"
+		},
+		{
+			"name": "Hero_01.jpg",
+			"width": 640,
+			"height": 321,
+			"alt": "今日も、家族の想いがつながりますように。スマホとつながる。ネスカフェ ゴールドブレンド バリスタ i[アイ]"
+		},
+		{
+			"table": [
+				{
+					"name": "Purchase_01-01.jpg",
+					"width": 320,
+					"height": 440,
+					"alt": "バリスタ アイ レッド 特別価格 3,990円（税込）"
+				},
+				{
+					"name": "Purchase_01-02.jpg",
+					"width": 320,
+					"height": 440,
+					"alt": "バリスタ アイ ホワイト 特別価格 3,990円（税込）"
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"name": "Purchase_02-01.jpg",
+					"width": 320,
+					"height": 72,
+					"alt": "商品を購入する",
+					"href":"https://shop.nestle.jp/front/commodity/00000000/001231603804/?utm_source=20161214_02&utm_medium=email&utm_campaign=shpstd_PC_001"
+				},
+				{
+					"name": "Purchase_02-02.jpg",
+					"width": 320,
+					"height": 72,
+					"alt": "商品を購入する",
+					"href":"https://shop.nestle.jp/front/commodity/00000000/001231603904/?utm_source=20161214_02&utm_medium=email&utm_campaign=shpstd_PC_002"
+				}
+			]
+		},
+		{
+			"name": "Purchase_03.jpg",
+			"width": 640,
+			"height": 51,
+			"alt": ""
+		}
+	]
+}

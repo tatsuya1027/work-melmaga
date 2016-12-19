@@ -1,0 +1,9 @@
+<% include modules/_header %>
+<% include modules/_main %>
+<% if (theme === '') { %>
+	<% include modules/_footer %>
+<% } else if (theme === 'ec') { %>
+	<% include modules/_footer-ec %>
+<% } else if (theme === 'amb') { %>
+	<% include modules/_footer-amb %>
+<% } %>

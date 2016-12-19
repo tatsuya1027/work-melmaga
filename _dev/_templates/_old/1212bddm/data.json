@@ -1,0 +1,106 @@
+{
+	"title": "ネスレ通販オンラインショップからのお知らせ",
+	"dir": "http://magazine.nestle.co.jp/shop/161212bddm/",
+	"size": "640",
+	"row": [
+		{
+			"name": "Headline.jpg",
+			"width": 640,
+			"height": 204,
+			"alt": "楽しみ福袋 一年に一度きりのお得なチャンス！！ 全コース送料無料"
+		},
+		{
+			"name": "NBA_01.jpg",
+			"width": 640,
+			"height": 164,
+			"alt": "「ネスカフェ ゴールドブレンド バリスタ」コース ※マシンの色・機種はお選びいただけません 13,000円（税込）相当 特別価格9,097円（税込）"
+		},
+		{
+			"table": [
+				{
+					"name": "NBA_02.jpg",
+					"width": 320,
+					"height": 55,
+					"alt": "1回目お届け ※12月20日ごろ 2回目お届け ※12月27日ごろ"
+				},
+				{
+					"name": "Btn.jpg",
+					"width": 189,
+					"height": 55,
+					"alt": "予約注文はこちら",
+					"href": "https://shop.nestle.jp/front/commodity/00000000/H00038/?utm_source=20161212&utm_medium=email&utm_campaign=shpstd_PC_001"
+				},
+				{
+					"name": "spacer.gif",
+					"width": 131,
+					"height": 55,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"name": "NDG_01.jpg",
+			"width": 640,
+			"height": 193,
+			"alt": "「ネスカフェ ゴールドブレンド バリスタ」コース ※マシンの色・機種はお選びいただけません 13,000円（税込）相当 特別価格9,097円（税込）"
+		},
+		{
+			"table": [
+				{
+					"name": "NDG_02.jpg",
+					"width": 320,
+					"height": 55,
+					"alt": "1回目お届け ※12月20日ごろ 2回目お届け ※12月27日ごろ"
+				},
+				{
+					"name": "Btn.jpg",
+					"width": 189,
+					"height": 55,
+					"alt": "予約注文はこちら",
+					"href": "https://shop.nestle.jp/front/commodity/00000000/H00038/?utm_source=20161212&utm_medium=email&utm_campaign=shpstd_PC_001"
+				},
+				{
+					"name": "spacer.gif",
+					"width": 131,
+					"height": 55,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"name": "SPT_01.jpg",
+			"width": 640,
+			"height": 179,
+			"alt": "「ネスカフェ ゴールドブレンド バリスタ」コース ※マシンの色・機種はお選びいただけません 13,000円（税込）相当 特別価格9,097円（税込）"
+		},
+		{
+			"table": [
+				{
+					"name": "SPT_02.jpg",
+					"width": 320,
+					"height": 55,
+					"alt": "1回目お届け ※12月20日ごろ 2回目お届け ※12月27日ごろ"
+				},
+				{
+					"name": "Btn.jpg",
+					"width": 189,
+					"height": 55,
+					"alt": "予約注文はこちら",
+					"href": "https://shop.nestle.jp/front/commodity/00000000/H00038/?utm_source=20161212&utm_medium=email&utm_campaign=shpstd_PC_001"
+				},
+				{
+					"name": "spacer.gif",
+					"width": 131,
+					"height": 55,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"name": "Attention.jpg",
+			"width": 640,
+			"height": 375,
+			"alt": "ご注文時の注意事項"
+		}
+	]
+}

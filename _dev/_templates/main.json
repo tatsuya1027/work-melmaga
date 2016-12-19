@@ -1,0 +1,199 @@
+{
+	"theme": "",
+	"bgColor": "#ffffff",
+	"textLinkColor": "#000000",
+	"title": "確認中",
+	"dir": "http://magazine.nestle.co.jp/shop/161221cddm/",
+	"size": "640",
+	"row": [
+		{
+			"name": "Head_hl.jpg",
+			"width": 640,
+			"height": 130,
+			"alt": "ネスレ会員のみなさまへ"
+		},
+		{
+			"name": "Head_01.jpg",
+			"width": 640,
+			"height": 253,
+			"alt": "科学的根拠のある話題の脳トレ［ブレインHQ］モニターさまを大募集します。"
+		},
+		{
+			"name": "Head_02.jpg",
+			"width": 640,
+			"height": 444,
+			"alt": "『ブレインHQ』は、「脳はいくつになっても変化し続けている」という脳科学に裏づけられた、脳トレーニングプログラムです。"
+		},
+		{
+			"name": "Head_03.jpg",
+			"width": 640,
+			"height": 294,
+			"alt": "「人の名前が思い出せない…」「最近ことばにつまる…」という方はぜひ一度お試しください。ただいま無料モニター募集中！ネスレ会員さまにはいち早くお試しいただけます。"
+		},
+		{
+			"table": [
+				{
+					"name": "Head_04-01.jpg",
+					"width": 85,
+					"height": 73,
+					"alt": ""
+				},
+				{
+					"name": "Head_04-02.jpg",
+					"width": 470,
+					"height": 73,
+					"alt": "無料モニターに申し込む",
+					"href":"https://nestle.jp/login.php?enquete_id=9523&utm_source=20161221_03&utm_medium=email&utm_campaign=shpstd_PC_001"
+				},
+				{
+					"name": "Head_04-03.jpg",
+					"width": 85,
+					"height": 73,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"name": "Head_05.jpg",
+			"width": 640,
+			"height": 83,
+			"alt": "期間：お申し込みより1か月間／参加料：無料"
+		},
+		{
+			"name": "Accident_01.jpg",
+			"width": 640,
+			"height": 241,
+			"alt": "高齢者の運転事故が増えています！！"
+		},
+		{
+			"name": "Accident_02.jpg",
+			"width": 640,
+			"height": 611,
+			"alt": "交通事故は減っているが、高齢ドライバーの事故は増加している！"
+		},
+		{
+			"name": "Accident_03.jpg",
+			"width": 640,
+			"height": 270,
+			"alt": "高齢者の事故が増えている…免許が交付されなくなるかもしれない…そうなる前に…"
+		},
+		{
+			"name": "Accident_04.jpg",
+			"width": 640,
+			"height": 384,
+			"alt": "朗報！話題の脳トレ『ブレインHQ』を実施すると（1）視野の反応速度が速まる！（2）危険運転が減少する！（3）交通事故が半減する！などの効果が出ています。"
+		},
+		{
+			"table": [
+				{
+					"name": "Accident_05-01.jpg",
+					"width": 84,
+					"height": 83,
+					"alt": ""
+				},
+				{
+					"name": "Accident_05-02.jpg",
+					"width": 470,
+					"height": 83,
+					"alt": "無料モニターキャンペーンの詳細はこちらから",
+					"href":"https://nestle.jp/brand/wellnessclub/brainLP/?utm_source=20161221_03&utm_medium=email&utm_campaign=shpstd_PC_002"
+				},
+				{
+					"name": "Accident_05-03.jpg",
+					"width": 86,
+					"height": 83,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"name": "Accident_06.jpg",
+			"width": 640,
+			"height": 53,
+			"alt": "「人の名前が思い出せない…」「最近ことばにつまる…」という方はぜひ一度お試しください。ただいま無料モニター募集中！ネスレ会員さまにはいち早くお試しいただけます。"
+		},
+		{
+			"name": "Point_hl.jpg",
+			"width": 640,
+			"height": 69,
+			"alt": "『ブレインHQ』のココがすごい！"
+		},
+		{
+			"name": "Point_01.jpg",
+			"width": 640,
+			"height": 338,
+			"alt": "1日20分、ゲーム感覚で脳トレ"
+		},
+		{
+			"name": "Point_02.jpg",
+			"width": 640,
+			"height": 371,
+			"alt": "脳トレで交通事故が半減"
+		},
+		{
+			"name": "Point_03.jpg",
+			"width": 640,
+			"height": 503,
+			"alt": "記憶力が約10歳分若返ったデータも"
+		},
+		{
+			"name": "Voice_hl.jpg",
+			"width": 640,
+			"height": 124,
+			"alt": "『ブレインHQ』を体験されたモニターさまの声"
+		},
+		{
+			"name": "Voice_01.jpg",
+			"width": 640,
+			"height": 210,
+			"alt": "運転のために、視野を鍛える！"
+		},
+		{
+			"name": "Voice_02.jpg",
+			"width": 640,
+			"height": 209,
+			"alt": "“実感できる”脳トレーニング"
+		},
+		{
+			"name": "Voice_03.jpg",
+			"width": 640,
+			"height": 213,
+			"alt": "もの忘れが多くなって…"
+		},
+		{
+			"name": "Foot_hl.jpg",
+			"width": 640,
+			"height": 236,
+			"alt": "ネスレ会員のみなさま！話題の脳トレを1か月間無料で試すチャンスです！"
+		},
+		{
+			"table": [
+				{
+					"name": "Foot_01-01.jpg",
+					"width": 85,
+					"height": 73,
+					"alt": ""
+				},
+				{
+					"name": "Foot_01-02.jpg",
+					"width": 470,
+					"height": 73,
+					"alt": "無料モニターに申し込む",
+					"href":"https://nestle.jp/login.php?enquete_id=9523&utm_source=20161221_03&utm_medium=email&utm_campaign=shpstd_PC_001"
+				},
+				{
+					"name": "Foot_01-03.jpg",
+					"width": 85,
+					"height": 73,
+					"alt": ""
+				}
+			]
+		},
+		{
+			"name": "spacer.gif",
+			"width": 640,
+			"height": 35,
+			"alt": ""
+		}
+	]
+}
